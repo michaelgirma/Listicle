@@ -36,7 +36,7 @@ Here's a walkthrough of implemented required features:
 https://github.com/michaelgirma/Listicle/assets/130878160/cf2e65a7-b923-4422-a26c-dba52f1e6186
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
+GIF created with ..  Add GIF tool here
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
