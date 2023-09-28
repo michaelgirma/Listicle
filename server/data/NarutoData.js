@@ -27,7 +27,7 @@ const characterData = [
     },
 
     {
-        "id": 4,
+        "id": 5,
         "name": "Kakashi",
         "location": "Hidden Leaf Village",
         "ranking": "Hokage",
@@ -36,12 +36,20 @@ const characterData = [
     },
 
     {
-        "id": 5,
+        "id": 4,
         "name": "Madara",
         "location": "Hidden Leaf Village",
         "ranking": "Jonin",
-        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/733b5da9-efe6-4697-a4f9-9e9d4975f828/de8g75a-a128f1ac-ec63-4485-b913-3b0f00fb9b63.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczM2I1ZGE5LWVmZTYtNDY5Ny1hNGY5LTllOWQ0OTc1ZjgyOFwvZGU4Zzc1YS1hMTI4ZjFhYy1lYzYzLTQ0ODUtYjkxMy0zYjBmMDBmYjliNjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fPT4Y-EkXONFPgkECDHazkxjlCs1ipyyO1XE_K7aRCM",
+        "image": "https://i.pinimg.com/736x/9a/a9/24/9aa924cf0352b021128df80334d80059.jpg",
         "description": " Given the nickname the God of all Shinobi. He was the main antagonist of the Naruto Shippuden show and was the final boss. Madara was not seen in the show until the final arc but he had a reputation for being the most evil and powerful ninja. He had one rival and his name was Hashirama who was the greatest ninja of all time, and was also able to take down Madara. Madara was also a character who had good intentions but had the wrong plan. He wanted to rid the world of evil and killing but he tried to do it by draining the life force of everything in their planet and controlling everbody with a hypnotizing moon. His story was also very inspiring because of his child hood trauma and how far he got in his life.  "  
+    },
+    {
+        "id": 6,
+        "name": "Obito",
+        "location": "Hidden Leaf Village",
+        "ranking": "Jonin",
+        "image": "https://i.pinimg.com/750x/81/06/c1/8106c1f54643ec0ae8a658a878a3ba31.jpg",
+        "description": " Obito Uchiha is a character from the popular anime and manga series Naruto, created by Masashi Kishimoto. Originally introduced as a kind-hearted young ninja from the Uchiha clan, Obito undergoes a tragic transformation after being crushed under a boulder during a mission and subsequently manipulated by dark forces. Believing that the world is inherently filled with pain and suffering, he adopts the pseudonym Tobi and becomes a central antagonist in the series. With a complex and layered backstory, Obito's character arc explores themes of love, loss, redemption, and the duality of human nature."  
     }
 ]
 
